@@ -43,7 +43,7 @@ Shanghai Jiao Tong University
 
 ## 💡 TL;DR
 
-**Fast-SAM3D** is a **training-free acceleration framework** for single-view 3D reconstruction that delivers **up to 2.67× speedup** with negligible quality loss. Our approach dynamically aligns computation with instantaneous generation complexity through three heterogeneity-aware mechanisms.
+**Fast-SAM3D111** is a **training-free acceleration framework** for single-view 3D reconstruction that delivers **up to 2.67× speedup** with negligible quality loss. Our approach dynamically aligns computation with instantaneous generation complexity through three heterogeneity-aware mechanisms.
 
 ---
 
