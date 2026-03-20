@@ -219,7 +219,7 @@ python infer.py \
 
 ```bash
 python infer_scene.py\
-    --image_dir  examples_dir
+    --image_dir  examples_dir \
     --output_dir /data/wmq/Fast-SAM3D/Look-scene \
     --ss_cache_stride 3 \
     --ss_warmup 2 \
